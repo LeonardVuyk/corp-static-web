@@ -1,0 +1,9 @@
+{
+    "routes": [
+        {
+            "route": "/index.html",
+            "redirect": "/corpwebpage.html",
+            "statusCode": 301
+        }
+    ]
+}
